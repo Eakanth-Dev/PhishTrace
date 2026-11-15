@@ -1,0 +1,12 @@
+streamlit>=1.35
+pandas>=2.0
+numpy>=1.26
+scikit-learn>=1.4
+plotly>=5.20
+networkx>=3.2
+reportlab>=4.0
+tldextract>=5.1
+opencv-python-headless>=4.9
+Pillow>=10.0
+# Optional (needs the system zbar library; the app falls back to OpenCV without it):
+# pyzbar>=0.1.9
